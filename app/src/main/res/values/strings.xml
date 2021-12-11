@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Dice</string>
+    <!--Used this file for dropdown numbers-->
+    <string-array name="names">
+        <item> 4  </item>
+        <item> 6  </item>
+        <item> 8  </item>
+        <item> 10 </item>
+        <item> 12 </item>
+        <item> 20 </item>
+    </string-array>
+</resources>
